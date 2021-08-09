@@ -21,7 +21,7 @@
 
 <details>
   <summary>📈 Other</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Stephan's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=stephanmotha&theme=react-dark"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Stephan's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=stephanmotha&line=30C3CD&bg_color=F3AD78&color=0a0a0a&point=c717eb"/></a>
 </details>
 
 <!--
