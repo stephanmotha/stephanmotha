@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://stephanmotha.netlify.app/">Hi There</a>
+  <a target="_blank" href="https://stephanmotha.netlify.app/">Hi There</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
