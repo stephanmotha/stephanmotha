@@ -14,7 +14,7 @@
 
 
 <!-- [![Stephan Motha's stats](https://github-readme-stats.vercel.app/api?username=stephanmotha&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)] -->
-|[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=stephanmotha&theme=onedark&count_private=true&show_icons=true&include_all_commits=truecard_width=600)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmotha&layout=compact&hide=jupyter%20notebook&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats) |
+|[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=stephanmotha&theme=onedark&count_private=true&show_icons=true&include_all_commits=truecard_width=600)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanmotha&theme=onedark&layout=compact&hide=jupyter%20notebook&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats) |
 |:---:| :---: |
 
 <!-- [![Stephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanmotha&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
