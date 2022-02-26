@@ -1,13 +1,15 @@
 <h3 align="center">
-  <a target="_blank" href="https://stephanmotha.netlify.app/">Hi There</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h2 align="center">
+    Hi There
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </h2>
 </h3>
 
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Computer+Science+Specialist;Student+At+UofT;Software+Developer;&center=true&width=360&color=F70000&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Computer+Science+Specialist;Student+At+UofT;Software+Developer;&center=true&width=360&color=%23A121B3&height=50">
    </a>
 </p>
 
@@ -49,6 +51,8 @@
   <summary>📈 Other</summary>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Stephan's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=stephanmotha&line=30C3CD&bg_color=F3AD78&color=0a0a0a&point=c717eb"/></a>
 </details> -->
+
+<!-- DEFAULT README -->
 
 <!--
 **stephanmotha/stephanmotha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
